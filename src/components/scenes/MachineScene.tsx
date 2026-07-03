@@ -41,6 +41,30 @@ const SPECS: {
     description: "De 0 a 100 km/h — o tempo entre a espera e o impacto.",
     focus: { transform: "scale(3.4) translate(24%, -4%)" },
   },
+  {
+    label: "Peso mínimo",
+    value: 798,
+    decimals: 0,
+    suffix: "kg",
+    description: "Carro e piloto juntos — cada grama é uma escolha.",
+    focus: { transform: "scale(3.3) translate(-6%, 2%)" },
+  },
+  {
+    label: "Velocidade máxima",
+    value: 350,
+    decimals: 0,
+    suffix: "+ km/h",
+    description: "Em retas longas, sem asas demais no caminho.",
+    focus: { transform: "scale(3.5) translate(10%, -8%)" },
+  },
+  {
+    label: "Câmbio",
+    value: 8,
+    decimals: 0,
+    suffix: " marchas",
+    description: "Trocas em milissegundos — sequenciais, semiautomáticas.",
+    focus: { transform: "scale(3.2) translate(-2%, 4%)" },
+  },
 ];
 
 /** Cena 4 — sem pin: fragmentos técnicos revelados por clip-path, com contadores. */

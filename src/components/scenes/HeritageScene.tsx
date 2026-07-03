@@ -15,6 +15,11 @@ const ERAS = [
     note: "Enzo Ferrari funda a Scuderia com um único objetivo: correr.",
   },
   {
+    year: "1952–53",
+    title: "Os primeiros títulos",
+    note: "Alberto Ascari vence dois campeonatos seguidos — a lenda começa.",
+  },
+  {
     year: "1962",
     title: "Nasce um ícone",
     note: "A 250 GTO prova que forma e função podem ser a mesma coisa.",
@@ -25,9 +30,19 @@ const ERAS = [
     note: "Niki Lauda conquista o título — e redefine o que é bravura.",
   },
   {
+    year: "1979–2000",
+    title: "Vinte e um anos de espera",
+    note: "Depois de Jody Scheckter, Maranello jejua até reencontrar o topo.",
+  },
+  {
     year: "2000–04",
     title: "O domínio silencioso",
     note: "Michael Schumacher vence cinco campeonatos seguidos com a Ferrari.",
+  },
+  {
+    year: "2007",
+    title: "A estreia perfeita",
+    note: "Kimi Räikkönen é campeão em sua primeira temporada de vermelho.",
   },
   {
     year: "Oggi",
